@@ -1,0 +1,9 @@
+.hoverVideo {
+    height: 12rem;
+    width: 10rem;
+    object-fit: fill;
+}
+
+.videoPlayer {
+    height: 100%;
+}

@@ -1,0 +1,11 @@
+.font-effect-fire {
+    text-align: center;
+    color: rgb(19, 100, 25);
+    background-color: rgb(121, 81, 81);
+    text-decoration: solid;
+    text-transform: capitalize;
+    font-family: 'Sofia", sans-serif';
+    font-size: 30px;
+    font-style: oblique;
+    padding: 6px 0;
+}

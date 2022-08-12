@@ -1,0 +1,8 @@
+.app_container {
+    width: 95%;
+    display: flex;
+    gap: 1rem;
+    justify-content: space-evenly;
+    margin: 1rem auto;
+    flex-wrap: wrap;
+}
