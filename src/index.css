@@ -4,6 +4,10 @@
 }
 
 body {
-  background-color: #bebebe;
+  /* background-color: #bebebe; */
+  background-image: url('../public/wall1.jpg');
+  /* background-position: center; */
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 100vh;
 }
